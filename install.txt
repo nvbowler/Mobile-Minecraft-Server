@@ -3,7 +3,7 @@ To install Mobile Minecraft Server to a new server,
 2.) Download the server application (From minecraft.net or any other server mod, such as bukkit) into the "Mobile" folder.
 3.) Start the server using a standard starter, not the special one for the Mobile Server.
 4.) Once the server is finished creating files, stop the server.
-5.) Make sure all the FTP information in the upload file is correct.
+5.) Make sure all the FTP information in the upload file is correct and the location of the zip folder in the download file is correct.
 6.) Run the Zip Application.
 7.) Run the Upload application.
 8.) You're done! When you want to run the mobile server, run the starter that came with the Mobile Server Package. Leave time for downloading and uploading upon starting and stopping of the server.
